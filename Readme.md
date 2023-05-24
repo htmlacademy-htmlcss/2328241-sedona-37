@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юрий Булгаков](https://up.htmlacademy.ru/htmlcss/37/user/2328241).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
